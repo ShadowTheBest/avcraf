@@ -1,0 +1,25 @@
+html{
+    background-image: url(./img/unknown.png);
+    background-size: 2000px;
+}
+p{
+    font-family: fantasy;
+    color: black;
+}
+p#connexion{
+    font-family: fantasy;
+    color: white;
+    text-align: center;
+}
+div#mdn{
+    background-color: darkblue;
+    border: solid;
+    padding: 20px 10px;
+    border-radius: 10px;
+    border-color: blue;
+    align-items:baseline ;
+}
+p#inscription{
+    text-align: center;
+    color: white;
+}
