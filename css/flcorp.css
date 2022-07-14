@@ -1,0 +1,15 @@
+*{
+    text-decoration: none;
+}
+html{
+    background: #1E1E1E;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: silver;
+}
+button,
+a{
+    background-color: black;
+    color: white;
+}
